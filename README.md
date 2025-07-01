@@ -127,11 +127,3 @@ Potential improvements for the project:
 ## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements.
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-**Note**: This project is for educational purposes and should not be used for actual medical diagnosis. Always consult healthcare professionals for medical advice.
